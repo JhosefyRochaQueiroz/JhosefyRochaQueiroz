@@ -1,32 +1,90 @@
-# Olá, me chamo Jhosefy! 👋
+# Jhosefy Rocha Queiroz
 
-Sou um desenvolvedor em início de carreira, focado em construir bases sólidas em programação e tecnologia no geral.
+**Técnico em Informática**  
+📍 Jardim São Paulo, Londrina - PR  
+📞 +55 (43) 98413-5975  
+📧 jhosefyrocha2006@outlook.com  
 
-## 👨‍💻 Sobre Mim
+- GitHub: https://github.com/JhosefyRochaQueiroz
+- LinkedIn: https://www.linkedin.com/in/jhosefyqueiroz
 
-* 📚 Estou aprofundando meus conhecimentos em desenvolvimento web, programação orientada a objetos e banco de dados relacionais.
-* 🚀 Meu foco é aplicar a teoria em pequenos projetos práticos para ganhar experiência real.
-* 💻 Tenho um 1 de experiência de assistência técnica de computadores e impressoras.
+---
 
-## 🛠️ Tecnologias e Ferramentas
+# Resumo
 
-Estas são as linguagens e tecnologias com as quais já tenho familiaridade e venho desenvolvendo projetos:
+Técnico em Informática com experiência prática em suporte técnico, manutenção de computadores e atendimento ao cliente. Atualmente cursando Bacharelado em Ciência da Computação, busco oportunidades na área de desenvolvimento de software para aplicar minha capacidade de resolução de problemas e expandir meus conhecimentos em programação e banco de dados.
 
-**Front-end:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-**Back-end & Linguagens:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+# Experiência Profissional
 
-**Banco de Dados:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## Estagiário em Manutenção de Desktop e Notebook
+**Help Desk Informática**  
+**Período:** Abril/2025 – Maio/2026  
+**Local:** Londrina – PR
 
-## 📈 Minhas Estatísticas
+### Principais atividades
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JhosefyRochaQueiroz&show_icons=true&theme=transparent&hide_border=true)
+- Manutenção de desktops, notebooks e impressoras;
+- Suporte técnico remoto e presencial;
+- Atendimento e orientação ao cliente;
+- Instalação e configuração de softwares;
+- Instalação e configuração de servidores;
+- Realização de backup em computadores;
+- Registro de entrada e saída de equipamentos utilizando ERP.
 
-## 📫 Como me encontrar
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhosefyqueiroz/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhosefyrocha2006@outlook.com)
+# Formação Acadêmica
+
+## Bacharelado em Ciência da Computação
+**Centro Universitário Filadélfia (UniFil)**
+
+**Período:** 2025 – 2028
+
+---
+
+# Cursos
+
+## Técnico em Desenvolvimento de Sistemas
+**SENAI** — Concluído
+
+## Manutenção de Computadores
+**Easy Up Educação** — Concluído
+
+---
+
+# Habilidades Técnicas
+
+## Suporte e Infraestrutura
+
+- Manutenção de desktops e notebooks
+- Manutenção de impressoras
+- Suporte remoto e presencial
+- Atendimento ao cliente
+- Instalação e configuração de softwares
+- Instalação e configuração de servidores
+- Backup de computadores
+- Conhecimento em ERP
+
+## Desenvolvimento
+
+- HTML (básico)
+- CSS (básico)
+- Java (Programação Orientada a Objetos)
+- PostgreSQL (básico)
+
+---
+
+# Objetivo
+
+Atuar na área de Desenvolvimento de Software, contribuindo com minhas habilidades técnicas, capacidade analítica e disposição para aprender continuamente, buscando crescimento profissional e evolução como desenvolvedor.
+
+---
+
+# Contato
+
+- **Email:** jhosefyrocha2006@outlook.com
+- **Telefone:** +55 (43) 98413-5975
+- **GitHub:** https://github.com/JhosefyRochaQueiroz
+- **LinkedIn:** https://www.linkedin.com/in/jhosefyqueiroz
